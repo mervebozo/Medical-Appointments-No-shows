@@ -1,0 +1,14 @@
+######## Required Packages #######
+# pip install -r requirements.txt
+
+python==3.6.5
+jupyter
+matplotlib
+notebook
+numpy
+pandas==0.23.0
+scikit-learn==0.20
+scipy==1.1.0
+seaborn
+xgboost==0.80
+imblearn
