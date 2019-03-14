@@ -8,8 +8,8 @@ I have analyzed the data and made data cleaning first. This step includes renami
 
 ### Usage
 ```
-$ git clone https://git.toptal.com/Peter-Hussami/project-merve-bozo.git
-$ cd project-merve-bozo
+$ git clone https://github.com/mervebozo/Medical-Appointments-No-shows.git
+$ cd Medical-Appointments-No-shows
 $ pip install -r requirements.txt
 $ python ./src/medicalAppForecastor.py
 ```
